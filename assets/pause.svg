@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="8" height="10" viewBox="0 0 8 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame" clip-path="url(#clip0_0_4)">
+<path id="Vector" d="M1.6 0H1C0.447715 0 0 0.447715 0 1V9C0 9.55229 0.447715 10 1 10H1.6C2.15228 10 2.6 9.55229 2.6 9V1C2.6 0.447715 2.15228 0 1.6 0Z" fill="#141414"/>
+<path id="Vector_2" d="M7 0H6.4C5.84772 0 5.4 0.447715 5.4 1V9C5.4 9.55229 5.84772 10 6.4 10H7C7.55228 10 8 9.55229 8 9V1C8 0.447715 7.55228 0 7 0Z" fill="#141414"/>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="8" height="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>

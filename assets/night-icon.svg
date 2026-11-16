@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <filter id="warm" color-interpolation-filters="sRGB">
+    <feFlood flood-color="#D4CFC3" result="warm"/>
+    <feComposite in="warm" in2="SourceAlpha" operator="in"/>
+  </filter>
+</svg>
